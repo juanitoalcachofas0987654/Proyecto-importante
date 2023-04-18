@@ -1,0 +1,25 @@
+.titulo {
+   text-align: center;
+    background-color: #08d11cfd;
+}
+
+.titulo {
+ font-style: inherit;
+ text-decoration: none;
+ padding: 1rem;
+ color: rgba(5, 88, 22, 0.671);
+}
+
+body {
+    font-family: 'Chivo Mono';
+}
+
+body {
+    background-image: url(../img/post_IMAGEN_4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35rem;
+    padding: 8rem;
+}
+   
+    
